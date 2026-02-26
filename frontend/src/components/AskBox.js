@@ -43,7 +43,7 @@ function AskBox({ onAsk, loading }) {
                         borderRadius: '10px',
                         border:       '2px solid rgba(255, 255, 255, 0.3)',
                         background:   'rgba(255,255,255,0.15)',
-                        color:        '#fff',
+                        color:        '#ffffff',
                         fontSize:     '15px',
                         backdropFilter: 'blur(4px)',
                     }}
@@ -61,7 +61,7 @@ function AskBox({ onAsk, loading }) {
                         fontSize:     '15px',
                         cursor:       loading || !query.trim() ? 'not-allowed' : 'pointer',
                         whiteSpace:   'nowrap',
-                        color: '#fff'
+                        
                     }}
                 >
                     {loading ? 'Thinking…' : 'Ask AI'}

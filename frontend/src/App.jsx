@@ -183,7 +183,9 @@ function App() {
                 background:   '#fff',
                 marginTop:    '40px',
             }}>
+              Dornala Pooja / Email: poojadornala0507@gmail.com
                 Built with React + Node.js + OpenAI (via OpenRouter)
+                THANK YOU FOR CHECKING OUT MY PROJECT! 🙏
             </footer>
         </div>
     );
