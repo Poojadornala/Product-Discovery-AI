@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "UltraBook Pro 15",
+      "category": "Electronics",
+      "price": 74999,
+      "description": "High-performance laptop with 16GB RAM, 512GB SSD, Intel i7. Perfect for professionals and creators.",
+      "tags": ["laptop", "ultrabook", "professional", "portable", "high-performance", "computer"]
+    },
+    {
+      "id": 2,
+      "name": "GameStation X Pro",
+      "category": "Gaming",
+      "price": 41999,
+      "description": "Next-gen gaming console with 4K support, 1TB storage, and exclusive game titles.",
+      "tags": ["gaming", "console", "entertainment", "4k", "multiplayer", "next-gen"]
+    },
+    {
+      "id": 3,
+      "name": "Wireless Elite Headphones",
+      "category": "Accessories",
+      "price": 20999,
+      "description": "Premium noise-canceling headphones with 30-hour battery life and superior sound quality.",
+      "tags": ["headphones", "wireless", "audio", "noise-canceling", "bluetooth", "premium"]
+    },
+    {
+      "id": 4,
+      "name": "Budget SmartPhone SE",
+      "category": "Electronics",
+      "price": 24999,
+      "description": "Affordable smartphone with 5G support, decent camera, and all-day battery life.",
+      "tags": ["smartphone", "mobile", "budget", "5g", "affordable", "android"]
+    },
+    {
+      "id": 5,
+      "name": "RGB Gaming Keyboard",
+      "category": "Gaming",
+      "price": 7499,
+      "description": "Mechanical gaming keyboard with customizable RGB lighting and programmable keys.",
+      "tags": ["keyboard", "gaming", "mechanical", "rgb", "accessories", "pc-gaming"]
+    },
+    {
+      "id": 6,
+      "name": "Smart Home Hub Pro",
+      "category": "Electronics",
+      "price": 14999,
+      "description": "Central control unit for all your smart home devices with voice assistant integration.",
+      "tags": ["smart-home", "iot", "automation", "voice-control", "hub", "alexa"]
+    },
+    {
+      "id": 7,
+      "name": "Pro Gaming Mouse",
+      "category": "Gaming",
+      "price": 6699,
+      "description": "High-precision gaming mouse with 16000 DPI, programmable buttons, and ergonomic design.",
+      "tags": ["mouse", "gaming", "precision", "ergonomic", "rgb", "pc-gaming"]
+    },
+    {
+      "id": 8,
+      "name": "Universal Laptop Stand",
+      "category": "Accessories",
+      "price": 3299,
+      "description": "Adjustable aluminum laptop stand for better ergonomics and cooling.",
+      "tags": ["stand", "laptop", "ergonomic", "accessories", "aluminum", "adjustable"]
+    }
+  ]
+}
