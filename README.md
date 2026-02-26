@@ -1,6 +1,6 @@
 # 🛍️ Product Discovery AI
 
-> A full-stack AI-powered product discovery system where users search in plain English and get intelligent product recommendations instantly — built with Node.js, Express, React, and OpenRouter (free LLM API).
+> A full-stack AI-powered product discovery system where users search in plain English and get intelligent product recommendations instantly - built with Node.js, Express, React, and OpenRouter (free LLM API).
 
 ![Product Discovery AI](photos/image1.png)
 ![Products ](photos/image2.png)
@@ -19,7 +19,7 @@
 
 ## 📌 Project Overview
 
-Product Discovery AI is a mini e-commerce search engine powered by a Large Language Model. Instead of typing exact product names, users describe what they need in natural language — like *"something good for gaming under ₹10,000"* — and the AI returns the most relevant products with a helpful explanation.
+Product Discovery AI is a mini e-commerce search engine powered by a Large Language Model. Instead of typing exact product names, users describe what they need in natural language — like "something good for gaming under ₹10,000" - and the AI returns the most relevant products with a helpful explanation.
 
 This project was built as a full-stack assessment demonstrating:
 - LLM API integration with structured prompt engineering
@@ -27,22 +27,21 @@ This project was built as a full-stack assessment demonstrating:
 - React frontend with hooks-based state management
 - Production-quality error handling and modular code structure
 
+
+ ✨ Features
+
+- 🤖 AI Natural Language Search - Describe what you need, AI finds it
+- 🗂️ Product Catalog - 8 products across Electronics, Gaming, and Accessories
+- 🔍 **Category Filtering - Browse All / Electronics / Gaming / Accessories
+- 💬 AI Summary - Explains why each product matches your query
+- ⚡ Fast UI - Pure React with Fetch API, no heavy libraries
+- 🛡️ Graceful Error Handling - Never crashes, always shows useful messages
+- 📱 Responsive Design - Works on desktop and mobile
+- 🔒 Secure - API keys stored in `.env`, never exposed to frontend
+
 ---
 
-## ✨ Features
-
-- 🤖 **AI Natural Language Search** — Describe what you need, AI finds it
-- 🗂️ **Product Catalog** — 8 products across Electronics, Gaming, and Accessories
-- 🔍 **Category Filtering** — Browse All / Electronics / Gaming / Accessories
-- 💬 **AI Summary** — Explains why each product matches your query
-- ⚡ **Fast UI** — Pure React with Fetch API, no heavy libraries
-- 🛡️ **Graceful Error Handling** — Never crashes, always shows useful messages
-- 📱 **Responsive Design** — Works on desktop and mobile
-- 🔒 **Secure** — API keys stored in `.env`, never exposed to frontend
-
----
-
-## 🧱 Tech Stack
+🧱 Tech Stack
 
 | Layer | Technology | Why |
 |-------|-----------|-----|
@@ -57,7 +56,7 @@ This project was built as a full-stack assessment demonstrating:
 
 ---
 
-## 📁 Project Structure
+📁 Project Structure
 
 ```
 product-discovery-ai/
@@ -85,17 +84,17 @@ product-discovery-ai/
 └── README.md                  # This file
 ```
 
----
 
-## 🚀 Local Setup & Installation
+
+ 🚀 Local Setup & Installation
 
 ### Prerequisites
-- **Node.js v18+** — [Download here](https://nodejs.org)
+- **Node.js v18+** - [Download here](https://nodejs.org)
 - **A free OpenRouter API key** — [Get it here](https://openrouter.ai/keys) (sign in with Google)
 
----
 
-### Step 1 — Clone the Repository
+
+ Step 1 — Clone the Repository
 
 ```bash
 git clone https://github.com/Poojadornala/Product-Discovery-AI.git
@@ -104,7 +103,7 @@ cd Product-Discovery-AI
 
 ---
 
-### Step 2 — Backend Setup
+ Step 2 — Backend Setup
 
 ```bash
 cd backend
