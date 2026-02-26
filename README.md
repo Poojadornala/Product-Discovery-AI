@@ -4,9 +4,9 @@
 
 ![Product Discovery AI](photos/image1.png)
 ![Products ](photos/image2.png)
-!products](photos/image3.png)
+![products](photos/image3.png)
 ![Filter by Ai](photos/image4.png)
-![Filter](photos/image4.png)
+![Filter](photos/image5.png)
 
 
 
